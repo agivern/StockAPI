@@ -1,0 +1,14 @@
+{
+  "name": "stock_api",
+  "version": "1.0.0",
+  "description": "stock api",
+  "author": "Alexandre Givern <alexandre.givern@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "degiro": "*"
+  }
+}
