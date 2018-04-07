@@ -1,4 +1,4 @@
-[
+{
     "degiro" : {
         "username" : "toto",
         "password" : "12345"
@@ -8,4 +8,4 @@
         "username" : "toto",
         "password" : "12345"
     }
-]
+}
