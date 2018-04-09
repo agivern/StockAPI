@@ -2,7 +2,7 @@
     "degiro" : {
         "username" : "toto",
         "password" : "12345"
-    }
+    },
     "boursedirect" :
     {
         "username" : "toto",
