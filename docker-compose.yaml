@@ -1,0 +1,8 @@
+version: '3'
+services:
+  stockapi_node:
+    build: docker/node
+    ports:
+     - 8080:8080
+    volumes:
+     - ${PWD}/source:/usr/src/app
